@@ -27,31 +27,31 @@ export default function TabLayout() {
         }),
       }}>
       <Tabs.Screen
-        name="home"
+        name="teacher_home"
         options={{
           title: 'Home',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
         }}
       />
       <Tabs.Screen
-        name="store"
+        name="manage_store"
         options={{
           title: 'Store',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="storefront.fill" color={color} />,
         }}
       />
       <Tabs.Screen
-        name="orders"
+        name="manage_orders"
         options={{
           title: 'Orders',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="list.bullet.clipboard.fill" color={color} />,
         }}
       />
       <Tabs.Screen
-        name="cart"
+        name="manage_students"
         options={{
-          title: 'Cart',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="cart.fill" color={color} />,
+          title: 'Students',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.2.fill" color={color} />,
         }}
       />
     </Tabs>
