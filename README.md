@@ -15,4 +15,5 @@ Milk Bear Shop is a [mobile app](https://apps.apple.com/us/app/milk-bear-shop/id
 - **Engaging and Warm Design**: A warm, inviting interface that provides fun using experience.
 
 ## How It Works: Teacher
+- Change Point Icon & Upload/Edit Store Items
 ![Demo1](demo/teacher_store.gif)
