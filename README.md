@@ -16,4 +16,4 @@ Milk Bear Shop is a [mobile app](https://apps.apple.com/us/app/milk-bear-shop/id
 
 ## How It Works: Teacher
 - Change Point Icon & Upload/Edit Store Items
-![Demo1](demo/teacher_store.gif)
+  ![Demo1](demo/teacher_store.gif)
