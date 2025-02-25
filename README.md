@@ -1,30 +1,18 @@
 # Welcome to Milk Bear Shop 👋
-This is a [mobile app](https://apps.apple.com/us/app/milk-bear-shop/id6739957470) to enhance engagement between kids and their teachers/parents. Kids are able to receive points from their teachers and use them to buy gifts from the store. Teachers are able to add kids to their class, manage points for their kids, and upload items to the store (and edit).
+This is a [mobile app](https://apps.apple.com/us/app/milk-bear-shop/id6739957470) to enhance engagement teachers/parents and their kids. It provides different UI and UX for teachers and kids.
 
-# Welcome to your Expo app 👋
+## Features for Teachers/Parents
+- **Manage Students**: Easily add or remove kids from their class roster.
+- **Point System Control**: Reward or deduct points to encourage positive behavior and accountability.
+- **Store Management**: Upload and edit store items, including images, names, prices, and customizable options.
+- **Personalized Rewards**: Customize the point icon to make collecting points more exciting for kids.
+- **User-Friendly Interface**: A cozy design that makes the experience enjoyable.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Features for Kids
+- **Real-Time Notifications**: Get push alerts when earning or losing points.
+- **Seamless Shopping Experience**: Save favorite items to the cart and check out easily.
+- **Personalized Progress Tracking**: track progress with a game-like bar showing how close they are to affording their desired items.
+- **Engaging and Warm Design**: A warm, inviting interface that provides fun using experience.
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
