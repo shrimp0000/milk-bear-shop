@@ -23,7 +23,7 @@ Milk Bear Shop is a [mobile app](https://apps.apple.com/us/app/milk-bear-shop/id
 
   ![Demo2](demo/teacher_order.gif)
 
-## How It Works: Student
+## How It Works: Kids
 - **Change Avatar & Shop for Items & Checkout**
 
   ![Demo3](demo/student.gif)
