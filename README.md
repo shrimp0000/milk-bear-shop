@@ -1,5 +1,5 @@
 # Welcome to Milk Bear Shop 👋
-This is a [mobile app](https://expo.dev) to enhance engagement between kids and their teachers/parents. Kids are able to receive points from their teachers and use them to buy gifts from the store. Teachers are able to add kids to their class, manage points for their kids, and upload items to the store (and edit).
+This is a [mobile app]([https://expo.dev](https://apps.apple.com/us/app/milk-bear-shop/id6739957470)) to enhance engagement between kids and their teachers/parents. Kids are able to receive points from their teachers and use them to buy gifts from the store. Teachers are able to add kids to their class, manage points for their kids, and upload items to the store (and edit).
 
 # Welcome to your Expo app 👋
 
